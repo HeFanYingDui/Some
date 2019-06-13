@@ -12,8 +12,7 @@ public class SomethingApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("hello");
-		System.out.println("hello");
-		System.out.println("我的未来哎!~~~");
+		System.out.println("我改了这里 请注意!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 	}
 
 }
